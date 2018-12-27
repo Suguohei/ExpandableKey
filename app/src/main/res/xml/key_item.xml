@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <Preference
+        android:key="f1"
+        android:title="@string/left_F1"
+        android:icon="@mipmap/direction_key"
+        ></Preference>
+    <Preference
+        android:key="f2"
+        android:title="@string/right_F2"
+        android:icon="@mipmap/direction_key"
+        ></Preference>
+    <Preference
+        android:key="left_scan"
+        android:title="@string/left_scan"
+        android:icon="@mipmap/direction_key"
+        ></Preference>
+    <Preference
+        android:key="right_scan"
+        android:title="@string/right_scan"
+        android:icon="@mipmap/direction_key"
+        ></Preference>
+    <Preference
+        android:key="home"
+        android:title="@string/home"
+        android:icon="@mipmap/direction_key"
+        ></Preference>
+    <Preference
+        android:key="menu"
+        android:title="@string/menu"
+        android:icon="@mipmap/direction_key"
+        ></Preference>
+    <Preference
+        android:key="back"
+        android:title="@string/back"
+        android:icon="@mipmap/direction_key"
+        ></Preference>
+
+</PreferenceScreen>

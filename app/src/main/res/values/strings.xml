@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ExpandableKey</string>
+    <string name="help">帮助</string>
+    <string name="name">可编程键</string>
+    <string name="left_F1">左键F1</string>
+    <string name="right_F2">右键F2</string>
+    <string name="left_scan">左扫描键</string>
+    <string name="home">HOME</string>
+    <string name="content">这是说明内容</string>
+    <string name="key">按键</string>
+    <string name="shortcut">捷径</string>
+    <string name="hint">输入键值查找</string>
+    <string name="defineCode">KeyCode自定义键值(输入键值0-283)</string>
+    <string name="comfirmButton">确认</string>
+    <string name="dialogTitle">提示</string>
+    <string name="cannot_be_null">不能为空或以0开头</string>
+    <string name="cannot_exceed_283">keycode不能大于283</string>
+    <string name="if_not_save_key">是否保存键值,您选择的键值是：</string>
+    <string name="this_key_exist">此键值存在</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="left_kh">键值为：(</string>
+    <string name="right_kh">)</string>
+    <string name="if_not_bind_app">是否绑定这个应用</string>
+    <string name="shortcut_saved">已经绑定此应用</string>
+    <string name="calculator">com.android.calculator2</string>
+    <string name="contacts">com.android.contacts</string>
+    <string name="menu">菜单键</string>
+    <string name="right_scan">右扫描键</string>
+    <string name="back">返回键</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
